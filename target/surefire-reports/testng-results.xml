@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+      <class name="hinal_qa.maven_java.RestapiTest">
+        <test-method status="PASS" signature="Api()[pri:0, instance:hinal_qa.maven_java.RestapiTest@1c3a4799]" name="Api" duration-ms="0" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Api -->
+        <test-method status="PASS" signature="apitest()[pri:0, instance:hinal_qa.maven_java.RestapiTest@1c3a4799]" name="apitest" duration-ms="0" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apitest -->
+      </class> <!-- hinal_qa.maven_java.RestapiTest -->
+      <class name="hinal_qa.maven_java.appiumTest">
+        <test-method status="PASS" signature="App()[pri:0, instance:hinal_qa.maven_java.appiumTest@694e1548]" name="App" duration-ms="7" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- App -->
+        <test-method status="PASS" signature="nativeApp()[pri:0, instance:hinal_qa.maven_java.appiumTest@694e1548]" name="nativeApp" duration-ms="0" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeApp -->
+      </class> <!-- hinal_qa.maven_java.appiumTest -->
+      <class name="hinal_qa.maven_java.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:hinal_qa.maven_java.SeleniumTest@131276c2]" name="BrowserAutomation" duration-ms="1" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:hinal_qa.maven_java.SeleniumTest@131276c2]" name="elementsUi" duration-ms="1" started-at="2021-03-17T17:49:25 EDT" finished-at="2021-03-17T17:49:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- hinal_qa.maven_java.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
