@@ -14,4 +14,8 @@ public class RestapiTest {
 	public void Api() {
 		System.out.println("Api");
 	}
+	@Test
+	public void Api12() {
+		System.out.println("Api");
+	}
 }
