@@ -10,6 +10,11 @@ public class SeleniumTest {
 		System.out.println("BrowserAutomation");
 		System.out.println("For git hub");
 		System.out.println("git1");
+		
+		System.out.println("selenium1");
+		System.out.println("selenium2");
+		System.out.println("selenium3");
+		
 	}
 	
 	@Test
