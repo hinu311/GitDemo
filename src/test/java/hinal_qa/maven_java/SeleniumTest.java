@@ -14,6 +14,9 @@ public class SeleniumTest {
 		System.out.println("selenium1");
 		System.out.println("selenium2");
 		System.out.println("selenium3");
+		System.out.println("selenium11");
+		System.out.println("selenium21");
+		System.out.println("selenium31");
 		
 	}
 	
@@ -27,6 +30,10 @@ public class SeleniumTest {
 	}
 	@Test
 	public void elementsUi2() {
+		System.out.println("elementsUi");
+	}
+	@Test
+	public void elementsUi23() {
 		System.out.println("elementsUi");
 	}
 }
